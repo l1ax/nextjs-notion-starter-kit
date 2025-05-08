@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Blog',
 
   // social usernames (optional)
-  twitter: 'lax',
+  // twitter: 'lax',
   github: 'l1ax',
-  linkedin: 'lax',
+  // linkedin: 'lax',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
